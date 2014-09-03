@@ -10,12 +10,16 @@ Dark Purple:
 
 Dark Green:
 
-![grren](DarkGreen.png)
+![darkgreen](DarkGreen.png)
 
 Dark Blue:
 
-![grren](DarkBlue.png)
+![darkblue](DarkBlue.png)
 
 Super Dark:
 
-![grren](SuperDark.png)
+![superdark](SuperDark.png)
+
+Warm November
+
+![warmnovember](WarmNovember.png)
