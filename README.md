@@ -8,6 +8,10 @@ Dark Purple:
 
 ![dark purple](DarkPurple.png)
 
+BlueYellow:
+
+![blueyellow](BlueAndYellow.png)
+
 Dark Green:
 
 ![darkgreen](DarkGreen.png)
